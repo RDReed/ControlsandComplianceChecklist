@@ -11,5 +11,5 @@ Detail the cybersecurity projects you have performed, including the challenges f
 
 ## PDF Resource
 [View my detailed cybersecurity project report] 
-<embed src="https://github.com/RDReed/RDReed/blob/3e5389eced00d4ac48894f3ba142c931f963e43c/Controls%20and%20compliance%20checklist%20exemplar.pdf" width="800px" height="600px" />
+<img src="https://github.com/RDReed/RDReed/blob/3e5389eced00d4ac48894f3ba142c931f963e43c/Controls%20and%20compliance%20checklist%20exemplar.pdf" width="80px" height="60px" />
 https://github.com/RDReed/RDReed/blob/3e5389eced00d4ac48894f3ba142c931f963e43c/Controls%20and%20compliance%20checklist%20exemplar.pdf
