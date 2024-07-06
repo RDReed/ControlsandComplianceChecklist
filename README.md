@@ -10,4 +10,4 @@ I am currently working on a project as part of my Google Cybersecurity Certifica
 Detail the cybersecurity projects you have performed, including the challenges faced, solutions implemented, and the results achieved.
 
 ## PDF Resource
-[View my detailed cybersecurity project report] (https://github.com/your-username/your-repository-name/blob/main/your-file-name.pdf)
+[View my detailed cybersecurity project report] https://github.com/RDReed/RDReed/blob/3e5389eced00d4ac48894f3ba142c931f963e43c/Controls%20and%20compliance%20checklist%20exemplar.pdf
