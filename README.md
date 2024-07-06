@@ -8,3 +8,6 @@ I am currently working on a project as part of my Google Cybersecurity Certifica
 
 ## Cybersecurity Project Performed
 Detail the cybersecurity projects you have performed, including the challenges faced, solutions implemented, and the results achieved.
+
+## PDF Resource
+[View my detailed cybersecurity project report] (https://github.com/your-username/your-repository-name/blob/main/your-file-name.pdf)
